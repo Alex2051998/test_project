@@ -1,0 +1,11 @@
+.userLogo{
+    border-radius: 500px;
+    border: 3px solid #049dff;
+    box-shadow: 0 0 7px #dc7575;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.prom.ua/86583918_w217_h209_prapor-ukrayini-z.jpg");
+}

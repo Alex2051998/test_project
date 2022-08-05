@@ -1,0 +1,6 @@
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    justify-content: start;
+}
